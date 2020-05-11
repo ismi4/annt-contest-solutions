@@ -1,0 +1,5 @@
+1. Logika napisana u Java jeziku... Unutar koda, u main metodi, se nalaze komentari koji govore
+   o cilju implementacija metoda
+
+2. Za rješenje dijela 1, histogram je predstavljen u HTML dokumentu, za predstavljanje je korišten
+   library za JavuScript - Chart.js (pokrenuti index.html)
